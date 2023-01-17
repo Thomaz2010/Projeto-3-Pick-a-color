@@ -15,6 +15,7 @@ btn.addEventListener('click', function () {
 
 // Gerando um numero randomico
 
+
 function getRandonColor() {
     return Math.floor(Math.random() * colors.length)
 }
